@@ -1,1 +1,0 @@
-# Strnadi-Texts
