@@ -9,9 +9,11 @@ Na projektu pracují přírodovědci z Univerzity Karlovy:
 - Tereza Petrusková
 - Pavel Pipek
 
-## Tvorba webu a aplikace
+## Vývojářská činnost
 Vývojářskou práci zašťiťují studenti ze [Střední školy Informatiky a ekonomie](https://delta-skola.cz) v Pardubicích, jmenně:
 
 - Marian Pecqueur a Jan Drobílek (aplikace)
 - Zdeněk Hrouda (web)
 - Stas Motsnyi (backend)
+
+## Mediální činnost
