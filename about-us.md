@@ -1,5 +1,5 @@
 # O nás
-Za celým projektem Nářečí českých strnadů stojí řada talentovaným lidí.
+Za celým projektem Nářečí českých strnadů stojí řada talentovaných lidí.
 
 ## Přírodovědci
 
@@ -12,8 +12,10 @@ Na projektu pracují přírodovědci z Univerzity Karlovy:
 ## Vývojářská činnost
 Vývojářskou práci zašťiťují studenti ze [Střední školy Informatiky a ekonomie](https://delta-skola.cz) v Pardubicích, jmenně:
 
-- Marian Pecqueur a Jan Drobílek (aplikace)
-- Zdeněk Hrouda (web)
-- Stas Motsnyi (backend)
+- Matěj Tobiáš Moravec - design
+- Marian Pecqueur a Jan Drobílek - aplikace
+- Zdeněk Hrouda - web
+- Stas Motsnyi - backend
+- Jakub Panchártek - umělá inteligence
 
 ## Mediální činnost
