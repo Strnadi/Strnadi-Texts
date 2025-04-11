@@ -1,5 +1,5 @@
 # Podporovatelé
-[![Logo bioakustické skupiny katedry ekologie Přírodovědecké fakulty Univerzity Karlovy](https://natur.cuni.cz/data/nodes/5440/logo_bio_final.png)](https://natur.cuni.cz/biologie/katedry-a-pracoviste/katedra-ekologie/veda-a-vyzkum/probihajici-projekty/bioakusticka-skupina)
+[![Logo bioakustické skupiny katedry ekologie Přírodovědecké fakulty Univerzity Karlovy](https://i.ibb.co/C5srMTN9/Screenshot-from-2025-04-11-23-28-36.png)](https://natur.cuni.cz/biologie/katedry-a-pracoviste/katedra-ekologie/veda-a-vyzkum/probihajici-projekty/bioakusticka-skupina)
 
 [![Logo LaNiche.cz](https://i.ibb.co/k2JT2QGH/laniche.png)](https://laniche.cz)
 
