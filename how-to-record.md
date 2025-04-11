@@ -16,7 +16,7 @@
 
 ## Všimněte si, jestli strnad zpíval sám nebo se na nahrávce ozývají dva či více jedinců.
 
-**Tip**: V nahrávce můžete okomentovat ústně, který jedinec zrovna zpívá  - lidský hlas je hlubší než ptačí zpěv, takže i když jim budete skákat do zpěvu, nahrávku dokážeme zanalyzovat.
+**Tip**: V nahrávce můžete okomentovat ústně, který jedinec zrovna zpívá  – lidský hlas je hlubší než ptačí zpěv, takže i když jim budete skákat do zpěvu, nahrávku dokážeme zanalyzovat.
 
 **Tip**: Pokud jsou v nahrávce hlasové komentáře, zmiňte to v poznámce před odesláním.
 

@@ -11,7 +11,7 @@ Projekt občanské vědy Nářečí českých strnadů v letech 2011-2016 ukáza
 Znalost o rozšíření ptačích dialektů umožňuje zkoumat mnohé obecné otázky týkající se zvířecí kultury: třeba jak nářečí vznikají a co je udržuje nebo jak reagují ptáci na změny ve svém prostředí. Pro zodpovězení některých z nich je ale třeba získat velké množství dat z určitého území opakovaně, což bez zapojení veřejnosti v podstatě není možné.
 
 
-Strnad obecný je pro výzkum ptačích nářečí ideálním druhem. Ačkoli na mnoha místech ubývá, pořád je ho v naší krajině dost a jeho zpěv je jednoduchý a snadno rozpoznatelný. Strnadi navíc zpívají dlouho - od předjaří až do poloviny léta.
+Strnad obecný je pro výzkum ptačích nářečí ideálním druhem. Ačkoli na mnoha místech ubývá, pořád je ho v naší krajině dost a jeho zpěv je jednoduchý a snadno rozpoznatelný. Strnadi navíc zpívají dlouho – od předjaří až do poloviny léta.
 
 
 ## Co nás mimo jiné zajímá?
